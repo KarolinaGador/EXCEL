@@ -2,6 +2,7 @@
 
 Four Excel projects, each in its own folder with its own README: a finance tracker with budget planner, report, a salary calculator built on ~32,000 job postings, and a Power Query–based vocabulary tracker.
 
+<img width="1727" height="515" alt="image" src="https://github.com/user-attachments/assets/91a62d38-dc13-4f88-980b-a3105da1f8cf" />
 
 
 ---
